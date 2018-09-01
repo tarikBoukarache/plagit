@@ -9,7 +9,7 @@ import java.util.*;
 public class Application extends Controller {
 
     public static void index() {
-        System.out.print("test !!");
+        System.out.print("test 222 !!");
         render();
     }
 
